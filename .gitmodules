@@ -1,0 +1,9 @@
+[submodule "libfirmapiu-java"]
+	path = libfirmapiu-java
+	url = https://github.com/libersoft/libfirmapiu-java.git
+[submodule "firmapiu-daemon"]
+	path = firmapiu-daemon
+	url = https://github.com/libersoft/firmapiu-daemon.git
+[submodule "firmapiu-gui"]
+	path = firmapiu-gui
+	url = https://github.com/libersoft/firmapiu-gui.git
