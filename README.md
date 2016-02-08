@@ -14,7 +14,10 @@ their\ derivates.
 In order to build the debian package you'll need:
 * git
 * debuild
-    sudo apt-get install git debuild
+
+
+`sudo apt-get install git debuild`
+
 
 1. git clone https://github.com/libersoft/firmapiu-packages.git
 2. cd firmapiu-packages
