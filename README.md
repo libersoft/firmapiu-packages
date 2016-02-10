@@ -25,6 +25,7 @@ In order to build the debian package you'll need:
 4. git submodules update
 5. cd <package folder>
 6. git checkout debian
-7. debuild -uc -us 
+7. cd debian
+8. debuild -uc -us
 
 Now you should have your .deb package located in the parent folder (..)
